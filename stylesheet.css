@@ -1,0 +1,47 @@
+h1 {
+  font-family: Verdana;
+  font-weight: bold;
+  color: rgb(255,244,0);
+  text-align: center;
+  letter-spacing: 3px;
+  padding-top: 19px;
+  font-size: 50px;
+  font-family: 'Unica One', cursive;
+}
+
+#header {
+    background-color: rgb(10,10,10);
+    height: 100px;
+}
+
+#footer {
+    background-color: rgb(10,10,10);
+    height: 140px;
+}
+
+iframe {
+  margin-top: 20px;
+  margin: auto;
+  display: block;
+}
+
+body {
+  background-color: #E8E8E8;
+}
+
+a img:hover {
+  box-shadow: 3px 3px 3px #aaa;
+}
+
+.imgt {
+  max-width: 400px;
+  max-height: 200px;
+  border: 5px solid white;
+  border-radius: 10px;
+  margin: 40px;
+}
+
+ table.center {
+   margin-left:auto;
+   margin-right:auto;
+ }
