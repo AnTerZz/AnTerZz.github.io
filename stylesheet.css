@@ -18,13 +18,7 @@ li {
   display: inline;
 }
 
-ul {
-  position: absolute;
-  top: 0;
-  right: 0;
-  margin-right: 300px;
-  margin-top: 37px;
-}
+
 
 #header {
     background-color: rgb(10,10,10);
@@ -88,4 +82,14 @@ a img:hover {
  a:active {
    text-decoration: none;
    color: rgb(255,244,0);
+ }
+
+ #1 {
+   display: inline-block;
+   width: 20%;
+ }
+
+ #2 {
+   display: inline-block;
+   width: 79%;
  }
