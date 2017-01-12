@@ -22,13 +22,13 @@ li {
 #header {
     background-color: rgb(10,10,10);
     width: 100%;
-    position: relative;
 }
 
 #footer {
     background-color: rgb(10,10,10);
     height: 140px;
     width: 100%;
+    position: relative;
 }
 
 iframe {
