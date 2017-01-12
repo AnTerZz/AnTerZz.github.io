@@ -1,7 +1,8 @@
 h1 {
   font-weight: bold;
   color: rgb(255,244,0);
-  text-align: center;
+  text-align: left;
+  margin-left: 250px;
   letter-spacing: 3px;
   padding-top: 19px;
   font-size: 50px;
