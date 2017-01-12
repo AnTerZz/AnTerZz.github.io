@@ -1,12 +1,22 @@
 h1 {
-  font-family: Verdana;
   font-weight: bold;
   color: rgb(255,244,0);
-  text-align: center;
+  text-align: left;
+  margin-left: 150px;
   letter-spacing: 3px;
   padding-top: 19px;
   font-size: 50px;
   font-family: 'Unica One', cursive;
+}
+
+li {
+  font-family: 'Unica One', cursive;
+  color: rgb(255,244,0);
+  float: right;
+  margin-right: 250px;
+  padding-top: 20px;
+  font-size: 20px;
+  display: inline;
 }
 
 #header {
@@ -35,14 +45,15 @@ a img:hover {
 }
 
 .imgt {
-  max-width: 400px;
-  max-height: 200px;
+  max-width: 384px;
+  max-height: 216px;
   border: 5px solid white;
   border-radius: 10px;
   margin: 40px;
 }
 
  table.center {
-   margin-left:auto;
-   margin-right:auto;
+   width: 50%;
+   margin-left: auto;
+   margin-right: auto;
  }
