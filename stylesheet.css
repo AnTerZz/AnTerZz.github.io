@@ -2,11 +2,12 @@ h1 {
   font-weight: bold;
   color: rgb(255,244,0);
   text-align: left;
-  margin-left: 250px;
   letter-spacing: 3px;
-  padding-top: 19px;
+  margin-top: 30px;
+  margin-left: 50px;
   font-size: 50px;
   font-family: 'Unica One', cursive;
+  vertical-align: middle;
 }
 
 li {
@@ -20,7 +21,6 @@ li {
 
 #header {
     background-color: rgb(10,10,10);
-    height: 100px;
     width: 100%;
     position: relative;
 }
@@ -85,9 +85,12 @@ a img:hover {
  #one {
    display: inline-block;
    width: 20%;
+   vertical-align: middle;
  }
 
  #two {
    display: inline-block;
    width: 79%;
+   text-align: right;
+   vertical-align: middle;
  }
