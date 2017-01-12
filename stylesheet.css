@@ -23,6 +23,7 @@ ul {
   top: 0;
   right: 0;
   margin-right: 300px;
+  margin-top: 37px;
 }
 
 #header {
@@ -52,15 +53,14 @@ a img:hover {
 }
 
 .imgt {
-  max-width: 384px;
-  max-height: 216px;
+  width: 80%;
   border: 5px solid white;
   border-radius: 10px;
   margin: 40px;
 }
 
  table.center {
-   width: 50%;
+   width: 70%;
    margin-left: auto;
    margin-right: auto;
  }
