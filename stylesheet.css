@@ -31,6 +31,17 @@ li {
     position: relative;
 }
 
+h2 {
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 40px;
+  text-align: center;
+  padding: 30px;
+  border-bottom: grey solid 2px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 iframe {
   margin: auto;
   display: block;
