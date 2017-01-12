@@ -9,15 +9,6 @@ h1 {
   font-family: 'Unica One', cursive;
 }
 
-li {
-  font-family: 'Unica One', cursive;
-  color: rgb(255,244,0);
-  float: right;
-  margin-right: 250px;
-  padding-top: 20px;
-  font-size: 20px;
-  display: inline;
-}
 
 #header {
     background-color: rgb(10,10,10);
