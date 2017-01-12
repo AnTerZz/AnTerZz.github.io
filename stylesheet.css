@@ -64,3 +64,28 @@ a img:hover {
    margin-left: auto;
    margin-right: auto;
  }
+
+ a:link {
+   text-decoration: none;
+   color: rgb(255,244,0);
+ }
+
+ a:hover {
+   text-decoration: underline;
+   color: rgb(255,244,0);
+ }
+
+ a:visited {
+   text-decoration: none;
+   color: rgb(255,244,0);
+ }
+
+ a:focus {
+   text-decoration: none;
+   color: rgb(255,244,0);
+ }
+
+ a:active {
+   text-decoration: none;
+   color: rgb(255,244,0);
+ }
