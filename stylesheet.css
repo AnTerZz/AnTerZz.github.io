@@ -13,15 +13,23 @@ li {
   font-family: 'Unica One', cursive;
   color: rgb(255,244,0);
   text-align: right;
-  margin-right: 300px;
-  padding-top: 24px;
+  margin-right: 30px;
   font-size: 20px;
+  display: inline;
+}
+
+ul {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-right: 300px;
 }
 
 #header {
     background-color: rgb(10,10,10);
     height: 100px;
     width: 100%;
+    position: relative;
 }
 
 #footer {
