@@ -24,8 +24,7 @@ li {
     width: 100%;
 }
 
-#footer {
-    background-color: rgb(10,10,10);
+#fimg {
     width: 100%;
 }
 
@@ -99,61 +98,3 @@ a img:hover {
    text-align: right;
    vertical-align: middle;
  }
-
- #footerdiv {
-   width: 80%;
-   text-align: center;
-   vertical-align: middle;
- }
-
-#fone {
-  display: inline-block;
-  vertical-align: middle;
-}
-
-#ftwo {
-  display: inline-block;
-  vertical-align: middle;
-}
-
-#fthree {
-  display: inline-block;
-  vertical-align: middle;
-}
-
-#ffour {
-  display: inline-block;
-  vertical-align: middle;
-}
-
-#ffive {
-  display: inline-block;
-  vertical-align: middle;
-}
-
-#fsix {
-  display: inline-block;
-  vertical-align: middle;
-}
-
-h3 {
-  color: rgb(255,244,0);
-  font-size: 30px;
-  font-family: 'Unica One', cursive;
-  letter-spacing: 3px;
-}
-
-img.yt {
-  width: 40%;
-  height: auto;
-}
-
-img.skype {
-  width: 35%;
-  height: auto;
-}
-
-img.twitter {
-  width: 20%;
-  height: auto;
-}
